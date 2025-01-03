@@ -22,8 +22,6 @@ Welcome to **JobFinder**, a comprehensive platform designed to streamline the jo
 
 The JobFinder platform is built with the **MERN Stack** for robust and scalable performance:
 
-![Tech Stack](https://dummyimage.com/600x200/282c34/ffffff&text=MERN+Stack+%7C+TypeScript+%7C+React)
-
 - **MongoDB**: For managing application data.
 - **Express.js**: Backend framework for building APIs.
 - **React**: Frontend library for a dynamic user interface.
@@ -35,7 +33,8 @@ The JobFinder platform is built with the **MERN Stack** for robust and scalable 
 ## 🌐 Website Preview
 
 ### Home Page
-![Home Page Preview](https://dummyimage.com/1200x600/282c34/ffffff&text=Home+Page+Screenshot)
+![Home Page Preview](![Uploading Screenshot 2025-01-03 170411.png…]()
+)
 
 ### Job Search & Filter
 ![Job Search Preview](https://dummyimage.com/1200x600/282c34/ffffff&text=Job+Search+Screenshot)
