@@ -30,20 +30,6 @@ The JobFinder platform is built with the **MERN Stack** for robust and scalable 
 
 ---
 
-## 🌐 Website Preview
-
-### Home Page
-![Home Page Preview](![Uploading Screenshot 2025-01-03 170411.png…]()
-)
-
-### Job Search & Filter
-![Job Search Preview](https://dummyimage.com/1200x600/282c34/ffffff&text=Job+Search+Screenshot)
-
-### Post a Job
-![Post Job Preview](https://dummyimage.com/1200x600/282c34/ffffff&text=Post+Job+Screenshot)
-
-### Application Dashboard
-![Dashboard Preview](https://dummyimage.com/1200x600/282c34/ffffff&text=Dashboard+Screenshot)
 
 ---
 
